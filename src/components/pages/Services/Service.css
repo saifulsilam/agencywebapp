@@ -1,0 +1,48 @@
+
+.Service__hero{
+    
+    overflow: hidden;
+   background-color: rgb(170, 160, 147);
+}   
+
+
+.our_service{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+    margin-top:20px;
+    
+}
+.main__content{
+    width: 90%;
+    background-color: rgb(209, 210, 211);
+    margin:5% 5% 5% 5%;
+    overflow: hidden;
+    
+
+}
+.service__item{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    width: 70%;
+    flex-wrap: wrap;
+    margin: 5px 15% 5px 15%;
+}
+.item__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: solid 1px rgb(224, 219, 219);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    overflow: hidden;
+    margin: 2px;
+    width: 300px;
+    
+    
+}
+.item__content:hover{
+    flex-shrink: 0.9;
+}
