@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/agencywebapp/static/css/main.0ca477c0.chunk.css",
+    "main.js": "/agencywebapp/static/js/main.c1ffa6da.chunk.js",
+    "main.js.map": "/agencywebapp/static/js/main.c1ffa6da.chunk.js.map",
+    "runtime-main.js": "/agencywebapp/static/js/runtime-main.1b2a8e79.js",
+    "runtime-main.js.map": "/agencywebapp/static/js/runtime-main.1b2a8e79.js.map",
+    "static/js/2.9dfcf2ae.chunk.js": "/agencywebapp/static/js/2.9dfcf2ae.chunk.js",
+    "static/js/2.9dfcf2ae.chunk.js.map": "/agencywebapp/static/js/2.9dfcf2ae.chunk.js.map",
+    "index.html": "/agencywebapp/index.html",
+    "static/css/main.0ca477c0.chunk.css.map": "/agencywebapp/static/css/main.0ca477c0.chunk.css.map",
+    "static/js/2.9dfcf2ae.chunk.js.LICENSE.txt": "/agencywebapp/static/js/2.9dfcf2ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b2a8e79.js",
+    "static/js/2.9dfcf2ae.chunk.js",
+    "static/css/main.0ca477c0.chunk.css",
+    "static/js/main.c1ffa6da.chunk.js"
+  ]
+}
